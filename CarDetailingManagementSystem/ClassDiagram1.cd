@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" GroupingSetting="Access" MembersFormat="NameAndType">
+  <Class Name="CarDetailingManagementSystem.Customer" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAQCAAYDQAIACAAAACEAG4xwACAAAQAQACIAI=</HashCode>
+      <FileName>Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarDetailingManagementSystem.CashReg" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAACgQQCgAABQggASBAAACEAH45wCIAAAQkQAAIRQ=</HashCode>
+      <FileName>CashReg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarDetailingManagementSystem.CashCustomer" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAACAAQCAEACQAIACAAAACEgC4ZgAAAAAYEQAAIAA=</HashCode>
+      <FileName>CashCustomer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarDetailingManagementSystem.CashService" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAACAAQCAEAAQAAACAAgACEAA4BAEAAEAIAUACAAA=</HashCode>
+      <FileName>CashService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarDetailingManagementSystem.CustomerModule" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEIBACABRCEKgrURIACAAEACAAAAQBAgAIAgAQJAAAQ=</HashCode>
+      <FileName>CustomerModule.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarDetailingManagementSystem.Dashboard" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Dashboard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarDetailingManagementSystem.dbConnect" Collapsed="true">
+    <Position X="5.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAQAwCAAAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>dbConnect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarDetailingManagementSystem.Employee" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAQCAAIBQAAACAAgACEAG85wACAAQAAQACIAI=</HashCode>
+      <FileName>Employee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarDetailingManagementSystem.EmployeeModule" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AUgggCAARCEKAJUQAACAAEAigAAAQBAgAIAAQQJABAQ=</HashCode>
+      <FileName>EmployeeModule.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarDetailingManagementSystem.Login" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAACAAQCAAABUAAACAAEACEAAACIAAEAAAAQFAAAQ=</HashCode>
+      <FileName>Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarDetailingManagementSystem.MainForm" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EICAAAAgAKAAAZCAAACMABADgAAABgCABANAASAKARA=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarDetailingManagementSystem.ManageExpenses" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEABACAARCEIAJUQAACAAEACAAABQJAAAIAAAwJAAAA=</HashCode>
+      <FileName>ManageExpenses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarDetailingManagementSystem.ManageVehicleType" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAACAARCEAABUQAACAAEACAAAAQBAAAIAAAQJAAAw=</HashCode>
+      <FileName>ManageVehicleType.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarDetailingManagementSystem.Program" Collapsed="true">
+    <Position X="7.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarDetailingManagementSystem.Report" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>+GyAYCAgQrQIQBSRAACBCABSFAA4JgAiABRKQQADBIQ=</HashCode>
+      <FileName>Report.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarDetailingManagementSystem.Service" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAQCAAIBQAAACAAgACEAE4hACCAEAAAQACAAI=</HashCode>
+      <FileName>Service.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarDetailingManagementSystem.ServiceModule" Collapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAACAARCEAABUQAACAAEACAAAAQBAAAMAAAQJQAAQ=</HashCode>
+      <FileName>ServiceModule.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarDetailingManagementSystem.Setting" Collapsed="true">
+    <Position X="5.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IICAACBCYjAIQBWIAECEAEADEAM4BjICAAgIAQIRBQQ=</HashCode>
+      <FileName>Setting.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarDetailingManagementSystem.SettlePayment" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>wAAAAPA/QiQECBQEACDAQAAKgAEAAAAQEAAAAQAw8A8=</HashCode>
+      <FileName>SettlePayment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarDetailingManagementSystem.Loading" Collapsed="true">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAACQACAAABAgAACAAAACAAAAIAAAEAAAAAAAAAA=</HashCode>
+      <FileName>Loading.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarDetailingManagementSystem.User" Collapsed="true">
+    <Position X="4" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Forms.Form" Collapsed="true">
+    <Position X="9.5" Y="3.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="System.Windows.Forms.Form.ControlCollection" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="9.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CarDetailingManagementSystem.Properties.Resources" Collapsed="true">
+    <Position X="2.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABBEAAAAQAAAAAAAAIAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
