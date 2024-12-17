@@ -36,6 +36,7 @@ namespace CarDetailingManagementSystem
             panelSlide.Height = btnDashboard.Height;
             panelSlide.Top = btnDashboard.Top;
             openChildForm(new Dashboard());
+            loadGrossProfit();
         }
 
         private void btnEmployer_Click(object sender, EventArgs e)

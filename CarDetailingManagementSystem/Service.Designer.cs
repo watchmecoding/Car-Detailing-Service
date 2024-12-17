@@ -116,7 +116,6 @@ namespace CarDetailingManagementSystem
             this.Column4,
             this.Edit,
             this.Delete});
-            this.dgvService.Dock = System.Windows.Forms.DockStyle.Fill;
             this.dgvService.EnableHeadersVisualStyles = false;
             this.dgvService.Location = new System.Drawing.Point(0, 0);
             this.dgvService.Name = "dgvService";

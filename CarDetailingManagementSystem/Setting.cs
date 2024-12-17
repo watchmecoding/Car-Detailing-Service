@@ -101,6 +101,7 @@ namespace CarDetailingManagementSystem
             ManageExpenses module = new ManageExpenses(this);
             module.btnUpdate.Enabled = false;
             module.ShowDialog();
+
         }
 
         private void txtSearchCoG_TextChanged(object sender, EventArgs e)
