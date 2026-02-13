@@ -1,1 +1,1 @@
-This is my course project - a Windows App for a Car Detailing Service called "Washup?!"
+My course project: a desktop application designed to streamline operations for 'Washup?!', a professional car detailing service. The app manages bookings, customer data, and service tracking through an intuitive Windows-based interface.
